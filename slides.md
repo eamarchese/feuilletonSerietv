@@ -41,7 +41,6 @@ Exemples ; para-médical, para-normal, para-texte
 <!-- .slide: class="hover"-->
 ### Expressions pour caractériser la paralittérature :
   - Mode de production (grande diffusion, grand tirage, de masse)
-  - Causes de la production
   - Mode de publication (feuilleton)
   - Circuit de distribution (gare, supermarché)
   - Nature du papier employé
