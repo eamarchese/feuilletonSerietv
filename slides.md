@@ -187,7 +187,7 @@ Gérard Genette, _Seuils_
 <!-- .slide: class="hover"-->
 # Épitexte
 
-> « Autour du texte encore, mais à p. 5 distance plus respectueuse (ou plus prudente), tous les messages qui se situent, au moins à l’origine, à l’extérieur du livre : généralement sur un support médiatique (interviews, entretiens), ou sous le couvert d’une communication privée (correspondances, journaux intimes, et autres). C’est cette deuxième catégorie que je baptise, faute de mieux, __épitexte__ »
+> « Autour du texte encore, mais à distance plus respectueuse (ou plus prudente), tous les messages qui se situent, au moins à l’origine, à l’extérieur du livre : généralement sur un support médiatique (interviews, entretiens), ou sous le couvert d’une communication privée (correspondances, journaux intimes, et autres). C’est cette deuxième catégorie que je baptise, faute de mieux, __épitexte__ »
 
 <!-- .element: style="font-size:1.4rem; text-align:justify" -->
 
