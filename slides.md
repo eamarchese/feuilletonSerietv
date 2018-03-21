@@ -74,7 +74,7 @@ Catégorie d'œuvres définie par un ensemble de règles et de caractères commu
 <!-- .slide: class="hover"-->
 # Le genre dans la série-télé
 
-- Genre proprement televisuel : format, typee de sérialité, modes de production, l'heure de diffusion, public visé (téléroman, sitcom, minisérie, soap opera)
+- Genre proprement televisuel : format, type de sérialité, modes de production, l'heure de diffusion, public visé (téléroman, sitcom, minisérie, soap opera)
 - Genre dérivé de la tradition littéraire : comédie, mélodrame, tragédie, drame, comédie dramatique
 - Sous-genre : policier, fantastique, science-fiction
 
@@ -102,7 +102,6 @@ Danielle Aubry, _Du roman-feuilleton à la série télévisuelle_
 
 - Engouement du public
 - Fidélisation du lecteur
-- Première présentation de l’œuvre au public par épisodes
 - Une révolution : la démocratisation de la presse.
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
